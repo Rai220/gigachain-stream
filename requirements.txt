@@ -1,2 +1,2 @@
-gigachain==0.0.300
+gigachain==0.0.300.1
 streamlit==1.26.0
