@@ -1,4 +1,4 @@
-gigachain==0.0.299
+gigachain==0.0.300
 streamlit==1.26.0
 jsonpatch==1.33
 anyio==4.0.0
