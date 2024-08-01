@@ -1,2 +1,2 @@
-gigachain>=0.0.300.2
-streamlit==1.26.0
+gigachain-community==0.2.6
+streamlit==1.37.0
