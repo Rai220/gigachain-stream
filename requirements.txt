@@ -1,2 +1,2 @@
 gigachain-community==0.2.6
-streamlit==1.37.0
+streamlit==1.26.0
